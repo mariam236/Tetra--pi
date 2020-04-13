@@ -1,0 +1,14 @@
+#help{
+  color: black;
+  font-size: 30px;
+  font-family: "Times New Roman Georgia";
+  float: right;
+  -webkit-text-stroke: 0.6px black;
+}
+img.pay {
+  width: 90%;
+  border-radius: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
